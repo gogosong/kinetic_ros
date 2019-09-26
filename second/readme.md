@@ -2,9 +2,11 @@
 
 Kinetic
 
+sudo apt-get install update
+
 ls -ltr /dev/video*
 
-cd catkin_ws/src
+cd ~/catkin_ws/src
 
 git clone https://github.com/bosch-ros-pkg/usb_cam
 
